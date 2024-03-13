@@ -25,8 +25,8 @@
 
 - Kloonaa repositio koneelle
     
-- Mene kansioon Tietokantasovellus2023
-   - cd Tietokantasovellus2023
+- Mene kansioon Suomen-Laskettelukeskuksia
+   - cd Suomen-Laskettelukeskuksia
 - Luodaan .env tiedosto johon lisätään:
    - DATABASE_URL= tietokannan paikallinen osoite
    - SECRET_KEY= randomilla luotu salainen-avain
